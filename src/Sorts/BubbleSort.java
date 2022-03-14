@@ -32,10 +32,10 @@ public class BubbleSort {
 	}
 
 	public static void main(String args[]) {
-		//Declaring and initializing an unsorted array of integers.
+		// Declaring and initializing an unsorted array of integers.
 		int array[] = { 23, 66, 17, 5, 16, 9, 33 };
-		
-		//Calling the sorting function 
+
+		// Calling the sorting function
 		bubbleSort(array);
 
 		// Displaying the array elements
